@@ -1,0 +1,9 @@
+.tox .tox-statusbar__branding svg {
+  display: none;
+}
+
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
